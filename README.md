@@ -28,25 +28,27 @@ De perfil introvertido, analítico e focado, sou observador e atento a detalhes,
 
 ## Experiência
 
-- **Coordenador de NOC - Audicom Telecom** (Julho de 2023 — Atualmenet)
-Uberlândia, MG
+**Coordenador de NOC**
+*Audicom Telecom · Uberlândia, MG · Julho de 2023 – Atualmente*
 
-  - Supervisão e coordenação da equipe de analistas de Help Desk.
-  - Análise e planejamento de viabilidade de enlaces de rádio frequência.
-  - Ativação e configuração de planos de banda larga.
-  - Realização e configuração de redirecionamento de portas em roteadores e firewalls de clientes.
-  - Suporte técnico especializado, diagnóstico remoto e resolução de problemas de conectividade.
-  - Monitoramento proativo da rede com Zabbix, The Dude, Grafana, SmokePing e phpipam.
-  - Familiaridade com equipamentos MikroTik, Cisco, Datacom, ONTs e roteadores.
-  - Gestão de projetos, treinamento de equipes e controle de atividades de campo.
+- Supervisão e coordenação da equipe de analistas de Help Desk.
+- Análise e planejamento de viabilidade de enlaces de rádio frequência.
+- Ativação e configuração de planos de banda larga.
+- Realização e configuração de redirecionamento de portas em roteadores e firewalls de clientes.
+- Suporte técnico especializado, diagnóstico remoto e resolução de problemas de conectividade.
+- Monitoramento proativo da rede com Zabbix, The Dude, Grafana, SmokePing e phpipam.
+- Familiaridade com equipamentos MikroTik, Cisco, Datacom, ONTs e roteadores.
+- Gestão de projetos, treinamento de equipes e controle de atividades de campo.
 
-**Operador de dados — WKVE Telecom** (Março de 2022 — Dezembro de 2022) · Governador Valadares, MG
+**Operador de Dados**
+*WKVE Telecom · Governador Valadares, MG · Março de 2022 – Dezembro de 2022*
 
 - Provisionamento e ativação de planos de banda larga e dados.
 - Testes e configuração de ONUs, garantindo conectividade e sinal óptico.
 - Análise e elaboração de estudos de viabilidade técnica para enlaces de rádio.
 
-**Assistente administrativo — IBI TELECOM** (Março de 2020 — Agosto de 2021) · Governador Valadares, MG
+**Assistente Administrativo**
+*IBI TELECOM · Governador Valadares, MG · Março de 2020 – Agosto de 2021*
 
 - Planejamento e acompanhamento de atividades da equipe técnica de campo.
 - Controle de estoque técnico e gestão de ordens de serviço.
