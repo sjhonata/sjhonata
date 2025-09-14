@@ -28,31 +28,33 @@ De perfil introvertido, analítico e focado, sou observador e atento a detalhes,
 
 ## Experiência
 
-**Audicom | Telecom** (Julho de 2023 — Presente) · Uberlândia, MG
+- **Coordenador de NOC - Audicom Telecom** (Julho de 2023 — Atualmenet)
+Uberlândia, MG
 
-- **Coordenador de NOC** (Dezembro de 2024 — Presente)
-  - Responsável pela supervisão e coordenação da equipe de analistas de Help Desk, fornecendo suporte técnico especializado aos clientes através de diagnóstico remoto e orientações de conectividade. [1]
-  - Gerencio a ativação e configuração de planos de banda larga, incluindo testes e configuração de ONTs e roteadores. [1]
-  - Realizo monitoramento proativo utilizando ferramentas como Zabbix, Grafana, SmokePing e phpipam. [1]
-  - Atuo no planejamento de viabilidade de enlaces de rádio frequência e na gestão de projetos operacionais, além de conduzir treinamentos para desenvolvimento das equipes. [1]
-
-- **Analista de rede** (Julho de 2023 — Dezembro de 2024)
-  - Atuei como coordenador de HelpDesk fornecendo suporte técnico ao cliente. [1]
-  - Responsável pela ativação de planos, configuração de equipamentos e realização de visitas técnicas quando necessário. [1]
-  - Participei ativamente de projetos de viabilidade de rádio frequência e realizei ajustes no backbone da rede. [1]
+  - Supervisão e coordenação da equipe de analistas de Help Desk.
+  - Análise e planejamento de viabilidade de enlaces de rádio frequência.
+  - Ativação e configuração de planos de banda larga.
+  - Realização e configuração de redirecionamento de portas em roteadores e firewalls de clientes.
+  - Suporte técnico especializado, diagnóstico remoto e resolução de problemas de conectividade.
+  - Monitoramento proativo da rede com Zabbix, The Dude, Grafana, SmokePing e phpipam.
+  - Familiaridade com equipamentos MikroTik, Cisco, Datacom, ONTs e roteadores.
+  - Gestão de projetos, treinamento de equipes e controle de atividades de campo.
 
 **Operador de dados — WKVE Telecom** (Março de 2022 — Dezembro de 2022) · Governador Valadares, MG
 
-- Responsável pela ativação de planos de banda larga, realizando testes e configuração de ONUs, além de análises de viabilidade de RF para garantir a qualidade do serviço prestado aos clientes. [1]
+- Provisionamento e ativação de planos de banda larga e dados.
+- Testes e configuração de ONUs, garantindo conectividade e sinal óptico.
+- Análise e elaboração de estudos de viabilidade técnica para enlaces de rádio.
 
 **Assistente administrativo — IBI TELECOM** (Março de 2020 — Agosto de 2021) · Governador Valadares, MG
 
-- Responsável pelo planejamento e acompanhamento do serviço dos técnicos de campo, gestão do controle de estoque, gerenciamento de ordens de serviço e agendamento de manutenções preventivas e corretivas. [1]
+- Planejamento e acompanhamento de atividades da equipe técnica de campo.
+- Controle de estoque técnico e gestão de ordens de serviço.
+- Análise de viabilidade para implantação de redes de fibra óptica.
+- Agendamento e acompanhamento de manutenções preventivas e corretivas.
 
 ## Formação acadêmica
 
-- **UniCesumar** — Bacharel em Engenharia de Software (jun/2022 — jul/2025) [1]
-- **Univale** — Bacharel em Engenharia Civil e Ambiental (fev/2012 — dez/2016) [1]
-- **FAVENI** — Pós-graduação Lato Sensu em Segurança do Trabalho e Gestão Ambiental (jun/2018 — jun/2019) [1]
-
-
+- **Bacharel em Engenharia de Software** - Universidade Cesumar - UniCesumar (2022 - 2025)
+- **Pós-graduação em Segurança do Trabalho e Gestão Ambiental** - FAVENI (2018 - 2019)
+- **Bacharel em Engenharia Civil e Ambiental** - Universidade Vale do Rio Doce - UNIVALE (2012 - 2016)
