@@ -5,7 +5,7 @@
 - **Location:** Uberlândia, Minas Gerais, Brasil
 - **Email:** eng.jhonatasousa@gmail.com
 - **LinkedIn:** [linkedin.com/in/sousajhonata](https://linkedin.com/in/sousajhonata)
-- **Site:** jhonatasousa.site
+- **Site:** [jhonatasousa.site](https://jhonatasousa.site)
 
 ## Resumo
 
